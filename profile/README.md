@@ -19,6 +19,19 @@ We’re building tools, running bootcamps, and shipping projects that matter —
 
 | 💡 Project | 🌍 Purpose |
 |-----------|------------|
+| [`AssetBit`](https://github.com/Blockbridge-Network/Team-AssetBit.git) | 1 |
+| [`StudyDao`](https://github.com/Blockbridge-Network/Team-StudyDao.git) | 2 |
+| [`RentSure`](https://github.com/Blockbridge-Network/Team-RentSure.git) | 3 |
+| [`SoundWave`](https://github.com/Blockbridge-Network/Team-SoundWave.git) | 4 |
+| [`Host3L`](https://github.com/Blockbridge-Network/Team-Host3L.git) | 5 |
+| [`SafeChain`](https://github.com/Blockbridge-Network/Team-SafeChain.git) | 6 |
+| [`EcoGuardian`](https://github.com/Blockbridge-Network/Team-EcoGuardian.git) | 7 |
+| [`EscroLance`](https://github.com/Blockbridge-Network/Team-EscroLance.git) | 8 |
+| [`Ghana Asaase`](https://github.com/Blockbridge-Network/Team-Ghana-Asaase.git) | 9 |
+| [`AccessChain`](https://github.com/Blockbridge-Network/Team-AccessChain.git) | 10 |
+| [`BrickChain`](https://github.com/Blockbridge-Network/Team-BrickChain.git) | 11 |
+| [`FundHub`](https://github.com/Blockbridge-Network/Team-FundHub.git) | 12 |
+| [`EquiXtate`](https://github.com/Blockbridge-Network/Team-EquiXtate.git) | 13 |
 | [`StreetCred`](https://github.com/blockbridge-network/) | On-chain credit for informal workers — microloans backed by trust, not banks |
 | [`LearnPass`](https://github.com/blockbridge-network/) | Access-gated learning platform powered by wallets + kernel modules |
 
