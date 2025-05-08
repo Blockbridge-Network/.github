@@ -19,8 +19,8 @@ We’re building tools, running bootcamps, and shipping projects that matter —
 
 | 💡 Project | 🌍 Purpose |
 |-----------|------------|
-| [`StreetCred`](https://github.com/blockbridge-network/streetcred-dapp) | On-chain credit for informal workers — microloans backed by trust, not banks |
-| [`LearnPass`](https://github.com/blockbridge-network/learnpass-dapp) | Access-gated learning platform powered by wallets + kernel modules |
+| [`StreetCred`](https://github.com/blockbridge-network/) | On-chain credit for informal workers — microloans backed by trust, not banks |
+| [`LearnPass`](https://github.com/blockbridge-network/) | Access-gated learning platform powered by wallets + kernel modules |
 
 ---
 
