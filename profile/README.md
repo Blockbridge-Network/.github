@@ -19,19 +19,19 @@ We’re building tools, running bootcamps, and shipping projects that matter —
 
 | 💡 Project | 🌍 Purpose |
 |-----------|------------|
-| [`AssetBit`](https://github.com/Blockbridge-Network/Team-AssetBit.git) | 1 |
-| [`StudyDao`](https://github.com/Blockbridge-Network/Team-StudyDao.git) | 2 |
-| [`RentSure`](https://github.com/Blockbridge-Network/Team-RentSure.git) | 3 |
-| [`SoundWave`](https://github.com/Blockbridge-Network/Team-SoundWave.git) | 4 |
-| [`Host3L`](https://github.com/Blockbridge-Network/Team-Host3L.git) | 5 |
-| [`SafeChain`](https://github.com/Blockbridge-Network/Team-SafeChain.git) | 6 |
-| [`EcoGuardian`](https://github.com/Blockbridge-Network/Team-EcoGuardian.git) | 7 |
-| [`EscroLance`](https://github.com/Blockbridge-Network/Team-EscroLance.git) | 8 |
-| [`Ghana Asaase`](https://github.com/Blockbridge-Network/Team-Ghana-Asaase.git) | 9 |
-| [`AccessChain`](https://github.com/Blockbridge-Network/Team-AccessChain.git) | 10 |
+| [`AssetBit`](https://github.com/Blockbridge-Network/Team-AssetBit.git) |  Unlocking global access to commodities by removing middlemen and enabling DeFi use of assets. |
+| [`StudyDao`](https://github.com/Blockbridge-Network/Team-StudyDao.git) | A learning community that rewards consistent study habits with real-world value through token incentives. |
+| [`RentSure`](https://github.com/Blockbridge-Network/Team-RentSure.git) | Solving rental fraud and payment issues between landlords and tenants using smart contracts. |
+| [`SoundWave`](https://github.com/Blockbridge-Network/Team-SoundWave.git) | Helping musicians earn royalties transparently, get booked easily, and sustain income post-career. |
+| [`Host3L`](https://github.com/Blockbridge-Network/Team-Host3L.git) | A simple blockchain-based platform to search and book hostels without the usual hassle. |
+| [`SafeChain`](https://github.com/Blockbridge-Network/Team-SafeChain.git) | A platform ensuring transparency in state contracts to combat corruption. |
+| [`EcoGuardian`](https://github.com/Blockbridge-Network/Team-EcoGuardian.git) | A community reward system for eco-friendly actions to boost recycling and environmental awareness. |
+| [`EscroLance`](https://github.com/Blockbridge-Network/Team-EscroLance.git) | A freelancer reputation system on-chain to reduce scams and disputes between clients and workers. |
+| [`Ghana Asaase`](https://github.com/Blockbridge-Network/Team-Ghana-Asaase.git) | A transparent digital land registry to protect citizens from land fraud and corrupt property systems. |
+| [`AccessChain`](https://github.com/Blockbridge-Network/Team-AccessChain.git) | Transparent and decentralized grant application and tracking system for both grantees and grant-makers. |
 | [`BrickChain`](https://github.com/Blockbridge-Network/Team-BrickChain.git) | 11 |
-| [`FundHub`](https://github.com/Blockbridge-Network/Team-FundHub.git) | 12 |
-| [`EquiXtate`](https://github.com/Blockbridge-Network/Team-EquiXtate.git) | 13 |
+| [`FundHub`](https://github.com/Blockbridge-Network/Team-FundHub.git) | A transparent donation platform allowing donors to verify how and where their contributions are used. |
+| [`EquiXtate`](https://github.com/Blockbridge-Network/Team-EquiXtate.git) | Real estate made easy: tokenize properties to lower entry cost and speed up buying/selling. |
 | [`StreetCred`](https://github.com/blockbridge-network/) | On-chain credit for informal workers — microloans backed by trust, not banks |
 | [`LearnPass`](https://github.com/blockbridge-network/) | Access-gated learning platform powered by wallets + kernel modules |
 
