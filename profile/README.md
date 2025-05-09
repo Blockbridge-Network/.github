@@ -29,6 +29,7 @@ We’re building tools, running bootcamps, and shipping projects that matter —
 | [`EscroLance`](https://github.com/Blockbridge-Network/Team-EscroLance.git) | A freelancer reputation system on-chain to reduce scams and disputes between clients and workers. |
 | [`Ghana Asaase`](https://github.com/Blockbridge-Network/Team-Ghana-Asaase.git) | A transparent digital land registry to protect citizens from land fraud and corrupt property systems. |
 | [`AccessChain`](https://github.com/Blockbridge-Network/Team-AccessChain.git) | Transparent and decentralized grant application and tracking system for both grantees and grant-makers. |
+| [`Cartified`](https://github.com/Blockbridge-Network/Team-Cartified.git) | A decentralised marketplace that use NFTs for verification and potential loyal user rewards |
 | [`BrickChain`](https://github.com/Blockbridge-Network/Team-BrickChain.git) | 11 |
 | [`FundHub`](https://github.com/Blockbridge-Network/Team-FundHub.git) | A transparent donation platform allowing donors to verify how and where their contributions are used. |
 | [`EquiXtate`](https://github.com/Blockbridge-Network/Team-EquiXtate.git) | Real estate made easy: tokenize properties to lower entry cost and speed up buying/selling. |
